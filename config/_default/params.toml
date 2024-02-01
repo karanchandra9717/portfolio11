@@ -19,7 +19,7 @@ subtitle = "i am  working for last 2 years now for pacificalabs"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/dragon.jpg"
+src = "img/avatar.png"
 
 [article]
 math = false
